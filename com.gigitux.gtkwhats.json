@@ -2,6 +2,8 @@
   "app-id": "com.gigitux.gtkwhats",
   "runtime": "org.gnome.Platform",
   "runtime-version": "3.36",
+  "end-of-life": "The application has been renamed to Youp for Whatsapp",
+  "end-of-life-rebase": "com.gigitux.youp"
   "sdk": "org.gnome.Sdk",
   "sdk-extensions": ["org.freedesktop.Sdk.Extension.rust-stable"],
   "command": "gtkwhats",
